@@ -1,0 +1,14 @@
+Order_ID,Restaurant_Name,Cuisine_Type,Delivery_Time,Customer_Rating
+O001,Pizza Palace,Italian,30,4
+O002,Dragon Wok,Chinese,,3
+O003,Karahi King,Pakistani,45,5
+O004,Pizza Palace,Italian,30,4
+O005,Dragon Wok,Chinese,25,
+O006,Karahi King,Pakistani,,4
+O007,Pasta House,Italian,35,3
+O008,Golden Dragon,Chinese,20,5
+O009,Lahori Chaska,Pakistani,50,
+O001,Pizza Palace,Italian,30,4
+O010,Roma Kitchen,Italian,,2
+O011,Wok Express,Chinese,28,4
+O012,Desi Dhaba,Pakistani,55,5

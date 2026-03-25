@@ -1,0 +1,16 @@
+CustomerID,Age,Gender,Annual_Income,City
+C001,25,Male,"50,000",Lahore
+C002,32,Female,"75,000",Karachi
+C003,,Male,"not available",Islamabad
+C004,45,Female,"90,000",
+C005,28,,,"Peshawar"
+C006,52,Male,"120,000",Lahore
+C007,,,"not available",
+C008,36,Female,"60,000",Karachi
+C009,41,Male,"80,000",Islamabad
+C010,29,Female,"55,000",Lahore
+C002,32,Female,"75,000",Karachi
+C011,38,Male,"95,000",Peshawar
+C012,,Female,"45,000",
+C013,27,Male,"not available",Lahore
+C014,60,Female,"110,000",Karachi

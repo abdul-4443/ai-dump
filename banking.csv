@@ -1,0 +1,14 @@
+Customer_ID,Age,Income,Loan_Status,Credit_Score,City
+B001,34,"50,000",Approved,720,Lahore
+B002,unknown,"80,000",Rejected,,Karachi
+B003,45,"120,000",Approved,680,Islamabad
+B004,29,"35,000",Rejected,590,
+B005,52,"95,000",Approved,750,Lahore
+B001,34,"50,000",Approved,720,Lahore
+B006,unknown,"60,000",Rejected,,Karachi
+B007,38,"110,000",Approved,700,Peshawar
+B008,41,"45,000",Rejected,610,
+B009,27,"72,000",Approved,730,Islamabad
+B010,60,"150,000",Approved,780,Lahore
+B011,33,"40,000",Rejected,,Karachi
+B012,unknown,"55,000",Approved,660,

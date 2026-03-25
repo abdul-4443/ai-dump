@@ -1,0 +1,11 @@
+Patient_ID,Admission_Date,Discharge_Date,Severity,Department
+P001,01-02-2024,10-02-2024,Low,Cardiology
+P002,2024/03/01,2024/03/15,High,Neurology
+P003,15-01-2024,20-01-2024,Medium,Orthopedic
+P004,invalid,2024/02/10,Low,Cardiology
+P005,2024/04/05,invalid,High,Neurology
+P006,20-03-2024,30-03-2024,Medium,Orthopedic
+P007,2024/01/10,2024/01/18,Low,Cardiology
+P008,05-02-2024,,High,Neurology
+P009,2024/05/01,2024/05/12,Medium,Orthopedic
+P010,invalid,invalid,Low,Cardiology
